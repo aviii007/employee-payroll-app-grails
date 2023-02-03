@@ -30,7 +30,7 @@
 <div class="main-content">
     <div class="header-content">
         <div class="emp-detail-text">
-            Employee Details <div class="emp-count">10</div>
+            Employee Details <div class="emp-count"></div>
 </div>
         <a class="add-button" routerLink="/add">
             <img src="../assets/icons/add-24px.svg" alt="">Add User</a>
